@@ -1,0 +1,28 @@
+/* homePage.css */
+.homepage-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+.homepage-container h1 {
+    color: #333;
+}
+
+.homepage-container p {
+    color: #666;
+}
+
+.homepage-container a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.homepage-container a:hover {
+    text-decoration: underline;
+}
