@@ -1,6 +1,6 @@
-# Cromwell-frontend
+# login-register-app-frontend
 
-This is a frontend for the Cromwell server.
+This is a frontend for the app
 
 ## Installation
 
